@@ -1,16 +1,27 @@
-## Hi there 👋
+# Jackson R. Strand 👋
 
-<!--
-**jstrand894/jstrand894** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a PhD student in **Ecology & Environmental Science** at Montana State University in Bozeman, MT, working at the intersection of field ecology, chemical ecology, and applied entomology.
 
-Here are some ideas to get you started:
+## 🌿 Research
+My dissertation focuses on **biological control of invasive toadflax** (*Linaria* spp.) in forest and rangeland systems of the American West. I work with endophytic biocontrol weevils (*Mecinus* and *Rhinusa*) and am interested in how plant-insect interactions, herbivory, and volatile chemistry shape biocontrol efficacy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Previously, I completed an M.S. in Entomology (MSU, 2024) studying wheat stem sawfly and native parasitoid communities in Montana agroecosystems.
+
+## 🔬 Interests
+- Weed biocontrol & invasive plant management
+- Chemical ecology and plant volatile signaling
+- Insect-plant interactions
+- Applied entomology in rangeland and forest systems
+- Integrated pest management
+
+## 🛠️ Tools & Skills
+- Field ecology & botanical surveys
+- GC-MS & GC-FID 
+- R, SQL
+- Data analysis & visualization
+
+## 🏔️ Outside the Lab
+When I'm not doing field work or writing, you'll find me trail running
+
+---
+📍 Bozeman, MT | 🎓 MSU Department of Land Resources & Environmental Science
