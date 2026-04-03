@@ -5,6 +5,4 @@ I'm a PhD student in Ecology & Environmental Science at Montana State University
 My broader research interests include weed biocontrol and invasive plant management, chemical ecology and plant volatile signaling, and applied entomology in rangeland and forest systems. 
 
 
-
----
 [https://jackson-strand.com](https://www.jackson-strand.com)
