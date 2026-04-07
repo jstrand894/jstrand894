@@ -4,4 +4,4 @@ I'm a PhD student in Ecology & Environmental Science at Montana State University
 
 [https://jackson-strand.com](https://www.jackson-strand.com)
 
-![Copper Creek](CopperCreek.jpg)
+![Copper Creek](https://raw.githubusercontent.com/jstrand894/jstrand894/main/CopperCreek.jpg)
